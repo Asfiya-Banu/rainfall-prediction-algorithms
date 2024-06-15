@@ -23,8 +23,8 @@ This project demonstrates how to use Databricks for data analysis and machine le
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your_username/your_repository.git
-   cd your_repository
+   git clone https://github.com/Asfiya-Banu/rainfall-prediction-algorithms.git
+   cd rainfall-prediction-algorithms
    ```
 
 2. **Install dependencies:**
